@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年11月03日 05时07分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年11月04日 05时05分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        让时间再慢些啊，让笑容常驻啊，让你再近一点啊。</td>
+        因为痛苦太有价值，因为回忆太珍贵，所以我们更要继续往前走。</td>
       </tr>
     </table>
     <br  />
