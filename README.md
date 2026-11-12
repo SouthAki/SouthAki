@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年11月12日 05时11分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年11月13日 05时05分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        永远不要低估你的潜能，永远不要放弃你的梦想。</td>
+        我们必须知道，我们终会知道。</td>
       </tr>
     </table>
     <br  />
