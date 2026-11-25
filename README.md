@@ -1,5 +1,5 @@
 <h3>Hi there 👋,我是南秋SouthAki</h3>
-<p>最近更新的时间:2026年11月25日 05时05分（每天早上 5:00 自动更新）</p>
+<p>最近更新的时间:2026年11月26日 05时05分（每天早上 5:00 自动更新）</p>
 <p>Welcome to my personal homepage！</p>
 <hr  />
 <p>你好喵，<img loading="lazy" src="/src/images/mona-loading-default.gif" width="16" height="16" alt="猫猫"> 欢迎来访我的世界</p>
@@ -126,7 +126,7 @@
     <table>
       <tr>
         <td>
-        我于杀戮之中盛放，亦如黎明中的花朵。</td>
+        人之生，气之聚也；聚则为生，散则为死。若死生之徒，吾又何患！</td>
       </tr>
     </table>
     <br  />
